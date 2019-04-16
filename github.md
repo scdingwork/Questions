@@ -1,12 +1,20 @@
 # 1 github ubuntu cmd使用方法
 https://blog.csdn.net/tina_ttl/article/details/51326684
+
+
 git add Readme
+
+
 git commit -m 'add readme file'
+
+
 git push origin master
 
 # 2 github ubuntu 界面 使用方法
 gitkraken
 链接github的sshkey 问题1生成
+
+
 file->init-> github 仓库->dropbox的文件修改后 push 即可
 
 # 3 github好处？
