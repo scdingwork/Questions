@@ -12,6 +12,7 @@ git push origin master
 
 # 2 github ubuntu 界面 使用方法
 gitkraken
+
 链接github的sshkey 问题1生成
 
 
