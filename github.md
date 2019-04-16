@@ -38,3 +38,6 @@ file->init-> github 仓库->dropbox的文件修改后 push 即可
 
 # 4 修改仓库名
 打开仓库  横排右侧 setting 修改
+
+# 5 github markdown 换行
+需要多按一次回车
